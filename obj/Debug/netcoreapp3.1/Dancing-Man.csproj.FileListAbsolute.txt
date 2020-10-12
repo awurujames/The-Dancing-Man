@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Dancing-Man\obj\Debug\netcoreapp3.1\Dancing-Man.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Dancing-Man\obj\Debug\netcoreapp3.1\Dancing-Man.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Dancing-Man\obj\Debug\netcoreapp3.1\Dancing-Man.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Dancing-Man\bin\Debug\netcoreapp3.1\Dancing-Man.exe
+C:\codebitacademyfolder\C#\Dancing-Man\bin\Debug\netcoreapp3.1\Dancing-Man.deps.json
+C:\codebitacademyfolder\C#\Dancing-Man\bin\Debug\netcoreapp3.1\Dancing-Man.runtimeconfig.json
+C:\codebitacademyfolder\C#\Dancing-Man\bin\Debug\netcoreapp3.1\Dancing-Man.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Dancing-Man\bin\Debug\netcoreapp3.1\Dancing-Man.dll
+C:\codebitacademyfolder\C#\Dancing-Man\bin\Debug\netcoreapp3.1\Dancing-Man.pdb
+C:\codebitacademyfolder\C#\Dancing-Man\obj\Debug\netcoreapp3.1\Dancing-Man.dll
+C:\codebitacademyfolder\C#\Dancing-Man\obj\Debug\netcoreapp3.1\Dancing-Man.pdb
